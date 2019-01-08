@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: NAACL/ACL/EMNLP 2019 Workshop on New Frontiers in Summarization
+title: EMNLP 2019 Workshop on New Frontiers in Summarization
 
 # Short description of your site
-description: NAACL/ACL/EMNLP 2019 Workshop on New Frontiers in Summarization
+description: EMNLP 2019 Workshop on New Frontiers in Summarization
 
 # --- Navigation bar options --- #
 
