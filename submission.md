@@ -16,7 +16,7 @@ To achieve this goal, two review systems will be used: [START](https://www.softc
 
 All collected data (anonymous reviews and review quality ratings, not including submissions) will be used for research purpose only, and we may release the dataset to the broader research community in the future (at least 6 months after the decisions are made). Authors are encouraged, but not required, to provide review quality ratings. Authors have the right to exclude data associated with their submission from the released dataset (can be indicated upon submission).
 
-If you have any concern or question, please do not hesitate to contact [Lu Wang](http://www.ccs.neu.edu/home/luwang/) at [luwang@ccs.neu.edu](luwang@ccs.neu.edu)
+If you have any concern or question, please do not hesitate to contact [Lu Wang](http://www.ccs.neu.edu/home/luwang/) at [luwang@ccs.neu.edu](luwang@ccs.neu.edu).
 
 **Submission URLs**
 
