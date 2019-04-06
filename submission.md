@@ -10,7 +10,7 @@ For the workshop this year, we are experimenting with a new reviewing model, whe
 
 To achieve this goal, two review systems will be used: [START](https://www.softconf.com/emnlp2019/ws-NEWSUM/) and [OpenReview](https://openreview.net/group?id=EMNLP/2019/Workshop/Summarization). Here is a quick breakdown of the process:
 
-- Authors upload the **initial submission to BOTH systems** (START and OpenReview).
+- Authors upload the **initial submission to BOTH systems** (START and OpenReview) by paper submission deadline.
 - Reviewers and PCs post **reviews and acceptance decisions on OpenReview**, to allow data collection via a customized web interface. We follow the standard **double-blind** policy, and the submissions and reviews will never be visible to the public, except to authors, reviewers, and PCs.
 - Authors upload the **camera-ready version to START**, to facilitate the production of EMNLP workshop proceedings.
 
