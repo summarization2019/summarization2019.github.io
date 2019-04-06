@@ -4,7 +4,7 @@ title:
 subtitle: 
 ---
 
-**Note**: below are tentative dates suggested by EMNLP organizers, where are subject to change
+**Note**: below are tentative dates suggested by EMNLP organizers, where are subject to change.
 
 Paper Submission Deadline: August 19, 2019
 
