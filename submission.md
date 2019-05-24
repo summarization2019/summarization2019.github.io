@@ -6,6 +6,8 @@ subtitle:
 
 **Submission**
 
+Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with two-page unlimited reference) are welcomed for submission!
+
 For the workshop this year, we are experimenting with a new reviewing model, where reviews and review quality ratings (link to the questionnaire for reviewers, link to the questionnaire for authors) will be collected for a research project (by Northeastern University and OpenReview) on peer review quality analysis. 
 
 To achieve this goal, two review systems will be used: [START](https://www.softconf.com/emnlp2019/ws-NEWSUM/) and [OpenReview](https://openreview.net/group?id=EMNLP/2019/Workshop/Summarization). Here is a quick breakdown of the process:
