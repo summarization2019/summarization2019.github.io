@@ -6,7 +6,7 @@ subtitle:
 
 **Submission**
 
-Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with two-page unlimited reference) are welcomed for submission!
+Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission!
 
 For the workshop this year, we are experimenting with a new reviewing model, where reviews and review quality ratings (link to the questionnaire for reviewers, link to the questionnaire for authors) will be collected for a research project (by Northeastern University and OpenReview) on peer review quality analysis. 
 
