@@ -6,7 +6,7 @@ subtitle:
 
 **Call For Papers**
 
-Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors' names or affiliations. Please use the <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">EMNLP 2019 style templates</a>. 
+Both long paper (eight (8) pages with unlimited reference) and short paper (four (4) pages with unlimited reference) are welcomed for submission! The reviewing process will be double-blind, and the submissions should not include the authors' names or affiliations. Please use the <a href="https://www.emnlp-ijcnlp2019.org/calls/papers">EMNLP 2019 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are NOT allowed.
 
 A list of topics relevant to this workshop (but not limited to):
 
