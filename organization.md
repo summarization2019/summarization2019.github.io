@@ -58,6 +58,6 @@ subtitle:
 * Yuntian Deng (Harvard University)
 * Zhe Hu (Baidu)
 * Alex Bravo Serrano (Universitat Pompeu Fabra)
-* Ahmed Ghassan Tawfiq AbuRa'ed 
+* Ahmed Ghassan Tawfiq AbuRa'ed (Universitat Pompeu Fabra)
 
 
