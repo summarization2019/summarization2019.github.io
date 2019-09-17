@@ -8,7 +8,7 @@ subtitle:
 
 Paper Submission Deadline: August 19, 2019
 
-Author Notification: September 16, 2019
+Author Notification: September 18, 2019 (changed from Septermber 16)
 
 Camera-Ready Deadline: September 30, 2019
 
