@@ -33,8 +33,8 @@ Note: For presentation format, each long talk is 12 minutes plus 2 minutes QA, a
 15:30 - 16:00	| Break
 16:00 - 17:40	| **Afternoon Session 2**
 16:00 - 16:50	| Invited Talk: Manabu Okumura (Tokyo Institute of Technology) <br> Title: *TBD*
-16:50 - 17:30	| ** <br> 
-16:50 - 17:30	| ** <br>           
-16:50 - 17:30	| ** <br>
-16:50 - 17:30	| ** <br>           
+16:50 - 17:30	| *Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations* <br> Sangwoo Cho, Chen Li, Dong Yu, Hassan Foroosh, Fei Liu
+16:50 - 17:30	| *Analyzing Sentence Fusion in Abstractive Summarization* <br> Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Seokhwan Kim, Walter Chang, Fei Liu          
+16:50 - 17:30	| *Summarizing Relationships for Interactive Concept Map Browsers* <br> Abram Handler, Premkumar Ganeshkumar, Brendan O'Connor, Mohamed AlTantawy
+16:50 - 17:30	| *Exploiting Discourse-Level Segmentation for Extractive Summarization* <br> Zhengyuan Liu and Nancy Chen 
 17:30 - 17:40	| Closing Remarks
