@@ -21,7 +21,7 @@ Note: For presentation format, each long talk is 12 minutes plus 2 minutes QA, a
 11:00 – 12:30	| **Morning Session 2**
 11:00 - 11:50	| Invited Talk: Ido Dagan (Bar-Ilan University) <br> Title: *TBD*
 11:50 - 12:02	| *Unsupervised Aspect-Based Multi-Document Abstractive Summarization* <br> Maximin Coavoux, Hady Elsahar, Matthias Galle
-12:02 - 12:14	| *BillSum: A Corpus for Automatic Summarization of US Legislation* <br> Vladimir Eidelman          
+12:02 - 12:14	| *BillSum: A Corpus for Automatic Summarization of US Legislation* <br> Anastassia Kornilova, Vladimir Eidelman          
 12:14 - 12:26	| *An Editorial Network for Enhanced Document Summarization* <br> Edward Moroshko, Guy Feigenblat, Haggai Roitman, David Konopnicki
 12:26 - 12:38	| *Towards Annotating and Creating Summary Highlights at Sub-sentence Level* <br> Kristjan Arumae, Parminder Bhatia, Fei Liu          
 12:30 – 14:00	| Lunch
