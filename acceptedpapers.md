@@ -38,7 +38,7 @@ Khanh Nguyen and Hal Daumé III
 Maximin Coavoux, Hady Elsahar, Matthias Galle
 
 * _BillSum: A Corpus for Automatic Summarization of US Legislation_,
-Vladimir Eidelman
+Anastassia Kornilova, Vladimir Eidelman
 
 * _An Editorial Network for Enhanced Document Summarization_,
 Edward Moroshko, Guy Feigenblat, Haggai Roitman, David Konopnicki
