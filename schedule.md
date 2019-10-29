@@ -17,10 +17,10 @@ Note: For presentation format, each long talk is 12 minutes plus 2 minutes QA, a
 08:50 – 10:40	| **Morning Session 1**
 08:50 – 09:00	| Opening Remarks
 09:00 - 09:50 | Invited Talk: Nanyun Peng (USC ISI) <br> Title: *TBD*
-09:50 - 10:04	| *Answering Naturally : Factoid to Full length Answer Generation* <br> Vaishali Pal, Manish Shrivastava, Irshad Bhat
-10:04 - 10:18	| *Summary Level Training of Sentence Rewriting for Abstractive Summarization* <br> Sanghwan Bae, Taeuk Kim, Jihoon Kim, Sang-goo Lee
-10:18 - 10:32	| *Abstractive Timeline Summarization* <br> Julius Steen and Katja Markert
-10:32 - 10:46	| *Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization* <br> Diego Antognini and Boi Faltings
+09:50 - 10:04	| *Summary Level Training of Sentence Rewriting for Abstractive Summarization* <br> Sanghwan Bae, Taeuk Kim, Jihoon Kim, Sang-goo Lee
+10:04 - 10:18	| *Abstractive Timeline Summarization* <br> Julius Steen and Katja Markert
+10:18 - 10:32	| *Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization* <br> Diego Antognini and Boi Faltings
+10:32 - 10:46	| *Answering Naturally : Factoid to Full length Answer Generation* <br> Vaishali Pal, Manish Shrivastava, Irshad Bhat
 10:46 - 11:00	| Break
 11:00 – 12:30	| **Morning Session 2**
 11:00 - 11:50	| Invited Talk: Ido Dagan (Bar-Ilan University) <br> Title: *TBD*
