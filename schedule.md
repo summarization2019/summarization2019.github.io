@@ -6,6 +6,10 @@ subtitle:
 
 **Workshop Schedule** 
 
+Date: November 4, 2019
+
+Location: SkyCity Meeting Room 1
+
 Note: For presentation format, each long talk is 12 minutes plus 2 minutes QA, and each short talk is 10 minutes plus 2 minutes QA.
 
  Time   | Content 
