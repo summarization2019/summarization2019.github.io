@@ -8,7 +8,7 @@ Abstract: Recent advances in data-driven approaches have demonstrated appealing 
 
 * <a href="http://u.cs.biu.ac.il/~dagan/">Ido Dagan</a> (Bar-Ilan University) <br>
 Title: Comprehending multi-text information: interaction and consolidation <br>
-For almost any topic of interest, information is spread across a
+Abstract: For almost any topic of interest, information is spread across a
 substantial number of texts, whose exploration becomes a hard and
 tedious process. Multi Document Summarization aspires to address this
 difficulty by providing a concise summary of the targeted information.
@@ -24,8 +24,7 @@ replicable evaluation framework, based on adapting and extending
 evaluation paradigms for traditional static summarization. I will then
 present a rather broad framework, and an initial prototype, for
 implementing interactive summarization through Query-Focused Summary
-Expansion.
-
+Expansion. <br> <br>
 The second part of the talk addresses the critical need to consolidate
 multi-text information in order to present it most effectively.
 Consolidation should be performed at the level of minimal information
