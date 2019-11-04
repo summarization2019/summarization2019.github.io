@@ -45,7 +45,23 @@ and interactive, as well as for other multi-text tasks. <br>
 * <a href="http://www.lr.pi.titech.ac.jp/~oku/index-e.html">Manabu Okumura</a> (Tokyo Institute of Technology) <br>
 *Title*: Studying the past in text summarization <br>
 *Abstract*: While the research field of text summarization has a long history of more than 60 years, we have witnessed the remarkable changes and improvements in the summarization researches in these ten years. Integer programming frameworks could improve the performance of summarization models. More recently neural models can be said to enable us to output abstractive summaries, and have changed the research community drastically. However, we should sometimes stop rushing and revisit the past researches. In this talk, we will mention some points in them that might be suggestive for the neural network-based summarization models, especially the length constraint, that can be the most fundamental for the summarization models but has been often ignored. <br>
-
+*Bio*: Manabu Okumura is currently a professor at Institute of Innovative
+Research, Tokyo Institute of Technology. He is also a vice-chairperson
+of Association for Natural Language Processing (ANLP) in Japan.  He
+was a visiting associate professor at the Department of Computer
+Science, University of Toronto from 1997 to 1998.  He co-organized a
+series of Text Summarization Challenge (TSC), a text summarization
+evaluation, the first of its kind in Japan, as a part of the NTCIR
+(NII-NACSIS Test Collection for IR Systems) Workshop.  He won Google
+AI Focused Research Awards in Japan (2019), Google Research Award
+(2015), and IBM Faculty Award (2015).  He plays many key roles in
+academic societies, journals and top-tier/representative conferences,
+including editor-in-chief for ANLP in Japan (2016-2018), ICICTES
+Conference Chair (2015-2019), Chair for JSAI isAI 2011, Area co-chair
+for ACL-HLT 2011, Workshop co-chair for PAKDD 2009, Area chair for
+EMNLP-CoNLL 2007, Area chair for IJCNLP 2004, Tutorial Co-Chair for
+PRICAI 2016, and Program Committee for many conferences (ACL, EACL,
+EMNLP, IJCAI, AAAI, WWW, ICCPOL, ICWSM, PRICAI, PAKDD, IJCNLP). <br>
 
 
 
