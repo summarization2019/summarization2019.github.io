@@ -40,6 +40,20 @@ and interactive, as well as for other multi-text tasks. <br>
 
 * <a href="https://www4.comp.polyu.edu.hk/~cswjli/">Wenjie Li</a> (The Hong Kong Polytechnic University) <br>
 *Title*: Beyond Sequence-to-Sequence Neural Summarization <br>
+*Bio*: Dr. Wenjie Li received the BSc and MSc degrees from Tianjin University,
+China, and the PhD degree from the Department of Systems Engineering and
+Engineering Management, Chinese University of Hong Kong, Hong Kong.
+Currently she is an associate professor in the Department of Computing,
+Hong Kong Polytechnic University. Her research interests include text
+summarization, machine conversation, natural language understanding and
+generation. She has directed and participated in quite a number of
+research projects and published more than 200 papers in major
+international journals and conference proceedings, including IEEE
+Transactions on Knowledge and Data Engineering, IEEE Transactions on
+Neural Networks and Learning Systems, ACM Transactions on Information
+Systems, Computational Linguistics, ACL, AAAI, IJCAI, WWW, and SIGIR.
+She has served as the information officer of SIGHAN and the acting
+editor of Transactions of the Association for Computational Linguistics. <br>
 
 
 * <a href="http://www.lr.pi.titech.ac.jp/~oku/index-e.html">Manabu Okumura</a> (Tokyo Institute of Technology) <br>
